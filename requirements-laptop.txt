@@ -1,0 +1,17 @@
+# Lab 3 — UDP/TCP/TLS (standard lib, no pip packages needed for laptop receiver)
+
+# Lab 4 Part 1 — REST API server
+flask
+
+# Lab 4 Part 2 — MQTT client (laptop side)
+paho-mqtt
+
+# Lab 5 — InfluxDB client (if we want to query from laptop)
+influxdb-client
+
+# Lab 5 — Roboflow code uses these (mostly runs on Unihiker, but useful for testing)
+requests
+Pillow
+
+# General utilities we'll use across labs
+python-dotenv
