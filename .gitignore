@@ -1,0 +1,32 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+
+# Environment variables & secrets
+.env
+*.key
+*.pem
+certs/server.key
+
+# OS junk
+.DS_Store
+Thumbs.db
+
+# Editor junk
+.vscode/
+.idea/
+*.swp
+
+# Videos (GitHub has file size limits, upload demo videos to Canvas directly)
+*.mp4
+*.mov
+*.avi
+*.MP4
+*.MOV
+
+# Large data
+*.onnx
+*.zip
