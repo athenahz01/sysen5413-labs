@@ -1,7 +1,6 @@
 """
 SYSEN 5413 - Lab 2 Part 2b: Interrupt-Style Button → LED
-Author: Athena Huo
-Date: April 2026
+Athena Huo
 
 Same observable behavior as part2a (Button A pressed → LED on, released
 → LED off), but architected around the INTERRUPT MODEL: callbacks fire
